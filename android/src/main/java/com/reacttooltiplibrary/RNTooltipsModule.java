@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.reacttooltiplibrary;
 
 import android.animation.Animator;
 import android.app.Activity;
